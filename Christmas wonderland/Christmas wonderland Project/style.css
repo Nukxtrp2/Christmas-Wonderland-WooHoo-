@@ -1,0 +1,9 @@
+body{
+    background-color: midnightblue;
+}
+
+footer{
+    min-height: -100%;
+    color: white;
+    background-color: white
+}
